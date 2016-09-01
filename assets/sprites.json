@@ -1,0 +1,228 @@
+[
+  {
+    "name": "restaurant",
+    "sheet": "restaurant",
+    "mainFrame": "restaurant.png",
+    "scale": 2,
+    "animations": []
+  },
+  {
+    "name": "fire1",
+    "sheet": "restaurant",
+    "mainFrame": "fire_1.png",
+    "scale": 2,
+    "animations": [
+      {
+        "name": "burn",
+        "frames": ["fire_1.png", "fire_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "fire2",
+    "sheet": "restaurant",
+    "mainFrame": "fire_2.png",
+    "scale": 2,
+    "animations": [
+      {
+        "name": "burn",
+        "frames": ["fire_2.png", "fire_1.png"]
+      }
+    ]
+  },
+  {
+    "name": "player",
+    "sheet": "restaurant",
+    "mainFrame": "man1_eat_1.png",
+    "scale": 2,
+    "animations": [
+      {
+        "name": "wait",
+        "frames": ["man1_eat_1.png", "man1_eat_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "man1",
+    "sheet": "characters",
+    "mainFrame": "man1/man1_lateral_walk_1.png",
+    "scale": 4,
+    "animations": [
+      {
+        "name": "walk",
+        "frames": ["man1/man1_lateral_walk_1.png", "man1/man1_lateral_walk_2.png", "man1/man1_lateral_walk_3.png", "man1/man1_lateral_walk_2.png"]
+      },
+      {
+        "name": "wait",
+        "frames": ["man1/man1_face_walk_2.png", "man1/man1_face_talk_1.png", "man1/man1_face_talk_2.png"]
+      },
+      {
+        "name": "stand",
+        "frames": ["man1/man1_face_walk_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "man2",
+    "sheet": "characters",
+    "mainFrame": "man2/man2_lateral_walk_1.png",
+    "scale": 4,
+    "animations": [
+      {
+        "name": "walk",
+        "frames": ["man2/man2_lateral_walk_1.png", "man2/man2_lateral_walk_2.png", "man2/man2_lateral_walk_3.png", "man2/man2_lateral_walk_2.png"]
+      },
+      {
+        "name": "wait",
+        "frames": ["man2/man2_face_walk_2.png", "man2/man2_face_talk_1.png", "man2/man2_face_talk_2.png"]
+      },
+      {
+        "name": "stand",
+        "frames": ["man2/man2_face_walk_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "man3",
+    "sheet": "characters",
+    "mainFrame": "man3/man3_lateral_walk_1.png",
+    "scale": 4,
+    "animations": [
+      {
+        "name": "walk",
+        "frames": ["man3/man3_lateral_walk_1.png", "man3/man3_lateral_walk_2.png", "man3/man3_lateral_walk_3.png", "man3/man3_lateral_walk_2.png"]
+      },
+      {
+        "name": "wait",
+        "frames": ["man3/man3_face_walk_2.png", "man3/man3_face_talk_1.png", "man3/man3_face_talk_2.png"]
+      },
+      {
+        "name": "stand",
+        "frames": ["man3/man3_face_walk_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "woman1",
+    "sheet": "characters",
+    "mainFrame": "woman1/woman1_lateral_walk_1.png",
+    "scale": 4,
+    "animations": [
+      {
+        "name": "walk",
+        "frames": ["woman1/woman1_lateral_walk_1.png", "woman1/woman1_lateral_walk_2.png", "woman1/woman1_lateral_walk_3.png", "woman1/woman1_lateral_walk_2.png"]
+      },
+      {
+        "name": "wait",
+        "frames": ["woman1/woman1_face_walk_2.png", "woman1/woman1_face_talk_1.png", "woman1/woman1_face_talk_2.png"]
+      },
+      {
+        "name": "stand",
+        "frames": ["woman1/woman1_face_walk_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "woman2",
+    "sheet": "characters",
+    "mainFrame": "woman2/woman2_lateral_walk_1.png",
+    "scale": 4,
+    "animations": [
+      {
+        "name": "walk",
+        "frames": ["woman2/woman2_lateral_walk_1.png", "woman2/woman2_lateral_walk_2.png", "woman2/woman2_lateral_walk_3.png", "woman2/woman2_lateral_walk_2.png"]
+      },
+      {
+        "name": "wait",
+        "frames": ["woman2/woman2_face_walk_2.png", "woman2/woman2_face_talk_1.png", "woman2/woman2_face_talk_2.png"]
+      },
+      {
+        "name": "stand",
+        "frames": ["woman2/woman2_face_walk_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "woman3",
+    "sheet": "characters",
+    "mainFrame": "woman3/woman3_lateral_walk_1.png",
+    "scale": 4,
+    "animations": [
+      {
+        "name": "walk",
+        "frames": ["woman3/woman3_lateral_walk_1.png", "woman3/woman3_lateral_walk_2.png", "woman3/woman3_lateral_walk_3.png", "woman3/woman3_lateral_walk_2.png"]
+      },
+      {
+        "name": "wait",
+        "frames": ["woman3/woman3_face_walk_2.png", "woman3/woman3_face_talk_1.png", "woman3/woman3_face_talk_2.png"]
+      },
+      {
+        "name": "stand",
+        "frames": ["woman3/woman3_face_walk_2.png"]
+      }
+    ]
+  },
+  {
+    "name": "food_1",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_02.png"
+  },
+  {
+    "name": "food_2",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_06.png"
+  },
+  {
+    "name": "food_3",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_07.png"
+  },
+  {
+    "name": "food_4",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_09.png"
+  },
+  {
+    "name": "food_5",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_10.png"
+  },
+  {
+    "name": "food_6",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_11.png"
+  },
+  {
+    "name": "food_7",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_12.png"
+  },
+  {
+    "name": "food_8",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_15.png"
+  },
+  {
+    "name": "food_9",
+    "sheet": "food",
+    "scale": 0.5,
+    "animations": [],
+    "mainFrame": "food_16.png"
+  }
+]

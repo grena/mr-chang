@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "fire_1.png",
+	"frame": {"x":364,"y":1,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":55,"w":32,"h":25},
+	"sourceSize": {"w":40,"h":80}
+},
+{
+	"filename": "fire_2.png",
+	"frame": {"x":364,"y":28,"w":32,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":55,"w":32,"h":25},
+	"sourceSize": {"w":40,"h":80}
+},
+{
+	"filename": "man1_eat_1.png",
+	"frame": {"x":323,"y":1,"w":39,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":17,"w":39,"h":63},
+	"sourceSize": {"w":40,"h":80}
+},
+{
+	"filename": "man1_eat_2.png",
+	"frame": {"x":323,"y":66,"w":39,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":17,"w":39,"h":63},
+	"sourceSize": {"w":40,"h":80}
+},
+{
+	"filename": "restaurant.png",
+	"frame": {"x":1,"y":1,"w":320,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":128},
+	"sourceSize": {"w":320,"h":128}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "restaurant.png",
+	"format": "RGBA8888",
+	"size": {"w":397,"h":130},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:316f8902fe90d30a803a26f593f20ca4:f7da337c291f3c373607638890934aac:e87684321ff1a4316527ea9eb1de47b0$"
+}
+}
