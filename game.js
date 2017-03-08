@@ -33,8 +33,8 @@ function preload() {
     game.load.script('webfont', '//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js');
     game.load.script('underscore', '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js');
 
-    game.load.script('filterX', 'https://cdn.rawgit.com/photonstorm/phaser/master/filters/BlurX.js');
-    game.load.script('filterY', 'https://cdn.rawgit.com/photonstorm/phaser/master/filters/BlurY.js');
+    game.load.script('filterX', 'BlurX.js');
+    game.load.script('filterY', 'BlurY.js');
 
     game.load.json('sprites', 'assets/sprites.json');
     spriteLoader.loadTextureAtlases();
